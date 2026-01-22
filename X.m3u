@@ -106,7 +106,7 @@ http://cssbyd.imwork.net:8082/hls/29/index.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://bkimg.cdn.bcebos.com/pic/060828381f30e924b899fc76e14379061d950a7b596a" group-title="全部频道",黑龙江卫视
-http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
+http://cssbyd.imwork.net:8082/hls/38/index.m3u8
 
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://5b0988e595225.cdn.sohucs.com/images/20190925/a6987c683cec4d52bb1227aa91d9fa1a.png" group-title="全部频道",山东卫视
 http://cssbyd.imwork.net:8082/hls/34/index.m3u8
@@ -303,6 +303,7 @@ http://cssbyd.imwork.net:8082/hls/46/index.m3u8
 
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/307/202512081329_1764320715088_H32_1080.webp" group-title="卫视频道",三沙卫视
 http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
+
 
 
 
