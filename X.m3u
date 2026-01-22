@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://example.com/epg.xml"
 #EXTINF:-1 tvg-id="1" tvg-name="1" group-title="全部频道",1
 http://cssbyd.imwork.net:8082/hls/1/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="2" group-title="全部频道",2
@@ -93,3 +93,4 @@ http://cssbyd.imwork.net:8082/hls/45/index.m3u8
 http://cssbyd.imwork.net:8082/hls/46/index.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="47" group-title="全部频道",47
 http://cssbyd.imwork.net:8082/hls/47/index.m3u8
+
