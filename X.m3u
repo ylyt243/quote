@@ -45,7 +45,7 @@ http://27.41.245.32:801/hls/14/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/628/202204010054_1626678245130_H32_1080.webp" group-title="全部频道",CCTV15音乐
 http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 
-#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="https://github.com/ylyt243/quote/blob/d3fc9554fb0a8f5e6cb9e1484d42350cbeb5da50/202204010049_1626677150014_H32_1080_1.jpg" group-title="全部频道",CCTV16奥林匹克
+#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="https://raw.githubusercontent.com/ylyt243/quote/refs/heads/main/202204010049_1626677150014_H32_1080_1.jpg" group-title="全部频道",CCTV16奥林匹克
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/631/202204010052_1626678428060_H32_1080.webp" group-title="全部频道",CCTV17农业农村
@@ -149,6 +149,7 @@ http://cssbyd.imwork.net:8082/hls/47/index.m3u8
 
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://i2.hdslb.com/bfs/archive/48eec75929b4fec786e9e4197876748b52507f08.jpg" group-title="全部频道",西藏卫视
 http://cssbyd.imwork.net:8082/hls/46/index.m3u8
+
 
 
 
