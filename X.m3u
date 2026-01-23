@@ -7,7 +7,7 @@ http://27.41.245.32:801/hls/1/index.m3u8
 http://27.41.245.32:801/hls/2/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/864/202204010055_1626679244629_H32_1080.webp" group-title="全部频道",CCTV3综艺
-http://27.41.245.32:801/hls/3/index.m3u8
+http://23.237.228.134/live5/CCTV3.m3u8
 
 #EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/947/202204010054_1626679413842_H32_1080.webp" group-title="全部频道",CCTV4中文国际
 http://cssbyd.imwork.net:8082/hls/4/index.m3u8
@@ -149,6 +149,7 @@ http://cssbyd.imwork.net:8082/hls/47/index.m3u8
 
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://i2.hdslb.com/bfs/archive/48eec75929b4fec786e9e4197876748b52507f08.jpg" group-title="全部频道",西藏卫视
 http://cssbyd.imwork.net:8082/hls/46/index.m3u8
+
 
 
 
