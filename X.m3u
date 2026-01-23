@@ -31,13 +31,13 @@ http://27.41.245.32:801/hls/9/index.m3u8
 http://27.41.245.32:801/hls/10/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/988/610/202204010054_1626677922732_H32_1080.webp" group-title="全部频道",CCTV11戏曲
-http://120.211.62.180:8000/hls/11/index.m3u8
+http://69.30.246.194/live/cctv11.m3u8
 
 #EXTINF:-1 tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/627/202204010053_1626678108629_H32_1080.webp" group-title="全部频道",CCTV12社会与法
 http://27.41.245.32:801/hls/12/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/208/864/202204010051_2202208864_H32_1080.webp" group-title="全部频道",CCTV13新闻
-http://120.211.62.180:8000/hls/13/index.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 
 #EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/875/202204010054_1626678147073_H32_1080.webp" group-title="全部频道",CCTV14少儿
 http://27.41.245.32:801/hls/14/index.m3u8
@@ -149,6 +149,7 @@ http://cssbyd.imwork.net:8082/hls/47/index.m3u8
 
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://i2.hdslb.com/bfs/archive/48eec75929b4fec786e9e4197876748b52507f08.jpg" group-title="全部频道",西藏卫视
 http://cssbyd.imwork.net:8082/hls/46/index.m3u8
+
 
 
 
