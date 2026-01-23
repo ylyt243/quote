@@ -37,19 +37,19 @@ http://69.30.246.194/live/cctv11.m3u8
 http://27.41.245.32:801/hls/12/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/208/864/202204010051_2202208864_H32_1080.webp" group-title="全部频道",CCTV13新闻
-http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+http://69.30.246.194/live/cctv13.m3u8
 
 #EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/875/202204010054_1626678147073_H32_1080.webp" group-title="全部频道",CCTV14少儿
 http://27.41.245.32:801/hls/14/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/628/202204010054_1626678245130_H32_1080.webp" group-title="全部频道",CCTV15音乐
-http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
+http://69.30.246.194/live/cctv15.m3u8
 
 #EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="https://raw.githubusercontent.com/ylyt243/quote/refs/heads/main/202204010049_1626677150014_H32_1080_1.jpg" group-title="全部频道",CCTV16奥林匹克
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+http://69.30.246.194/live/cctv16.m3u8
 
 #EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/631/202204010052_1626678428060_H32_1080.webp" group-title="全部频道",CCTV17农业农村
-http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+http://69.30.246.194/live/cctv17.m3u8
 
 #EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/288/202204010048_1626679712843_H32_1080.webp" group-title="全部频道",CCTV5+体育赛事
 http://cssbyd.imwork.net:8082/hls/6/index.m3u8
@@ -130,7 +130,7 @@ http://cssbyd.imwork.net:8082/hls/39/index.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://bkimg.cdn.bcebos.com/pic/902397dda144ad3478a1f699d8a20cf431ad8595" group-title="全部频道",广西卫视
-http://113.15.109.216:59901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+http://23.237.228.134/live6/guangxi.m3u8
 
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://bkimg.cdn.bcebos.com/pic/32fa828ba61ea8d3fd1f2110ae58274e251f95caf2df" group-title="全部频道",内蒙古卫视
 http://cssbyd.imwork.net:8082/hls/44/index.m3u8
@@ -149,6 +149,7 @@ http://cssbyd.imwork.net:8082/hls/47/index.m3u8
 
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://i2.hdslb.com/bfs/archive/48eec75929b4fec786e9e4197876748b52507f08.jpg" group-title="全部频道",西藏卫视
 http://cssbyd.imwork.net:8082/hls/46/index.m3u8
+
 
 
 
