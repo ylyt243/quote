@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://list.syyel.dynv6.net:8989/playback.xml" 
 
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="全部频道",CCTV1综合
 http://23.237.228.134/live5/CCTV1.m3u8
@@ -175,4 +176,5 @@ http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://i2.hdslb.com/bfs/archive/48eec75929b4fec786e9e4197876748b52507f08.jpg" group-title="全部频道",西藏卫视
+
 # 第一个材料中没有西藏卫视的对应源
