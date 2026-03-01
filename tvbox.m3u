@@ -3,8 +3,11 @@
 # --- 央视系列 ---
 #EXTINF:-1 tvg-id="CCTV-1.hdtv" group-title="央视" tvg-logo="https://git.yylx.win/raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png",CCTV1
 http://171.43.65.107:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV-1.hdtv" group-title="央视" tvg-logo="https://git.yylx.win/raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png",CCTV1
 http://221.237.79.205:9901/tsfile/live/faacts/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV-1.hdtv" group-title="央视" tvg-logo="https://git.yylx.win/raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png",CCTV1
 http://1.197.251.98:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV-1.hdtv" group-title="央视" tvg-logo="https://git.yylx.win/raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png",CCTV1
 http://60.187.246.177:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="CCTV-2.hdtv" group-title="央视" tvg-logo="https://git.yylx.win/raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png",CCTV2
@@ -386,4 +389,3 @@ http://1.197.251.98:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="JinyingCartoon" group-title="其他" tvg-logo="https://git.yylx.win/raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png",金鹰卡通
 http://1.197.251.98:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-
