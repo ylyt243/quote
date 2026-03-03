@@ -1,5 +1,3 @@
-# 源名称: dxhotel
-# 更新时间: 2026-03-03 23:58:54
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 group-title="央视" tvg-logo="https://git.yylx.win/github.com/fanmingming/live/blob/main/tv/CCTV1.png?raw=true",CCTV1
 http://60.187.246.177:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -375,3 +373,4 @@ http://60.187.246.177:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 http://60.187.246.177:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卡通少儿" tvg-logo="https://git.yylx.win/github.com/fanmingming/live/blob/main/tv/嘉佳卡通.png?raw=true",嘉佳卡通
 http://171.43.65.107:85/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+
