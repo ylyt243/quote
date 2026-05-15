@@ -55,13 +55,13 @@ https://list.syyel.dynv6.net:8989/630287636
 https://list.syyel.dynv6.net:8989/651632648
 
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://img2.baidu.com/it/u=3757621912,508288851&fm=253&fmt=auto&app=138&f=JPEG" group-title="全部频道",安徽卫视
-http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
+https://live.ottiptv.cc/mcp/anhui.m3u8?userid=5212802075&sign=e02e283296ee5fc5d2177ada4c69b3a286d7dcf259a10aa75cb0bd6b8327d7a14e32d7ef14ea16ed702fa721cea76aa9caea0f9d5903e4789680a69b8e363473da8c3d2c2dd7aae53865acbad4&auth_token=11753a6b8669cf6f1139b4891d0568d6
 
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://5b0988e595225.cdn.sohucs.com/images/20190925/a6987c683cec4d52bb1227aa91d9fa1a.png" group-title="全部频道",山东卫视
-http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
+https://live.ottiptv.cc/mcp/shandong.m3u8?userid=5212802075&sign=3e1da58260a0e0b63253cac5897fba876d55333a5047f86f5eec6c29861d869c51d0fe9d148c5b460bb65e88263f3301601aff0477c334d935483ba756a63c8658b94bcd733dfbf209ac907e40a36474&auth_token=11753a6b8669cf6f1139b4891d0568d6
 
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/182/202507151427_1744624877917_H32_1080.webp" group-title="全部频道",东南卫视
-https://list.syyel.dynv6.net:8989/849116810
+https://live.ottiptv.cc/mcp/dongnan.m3u8?userid=5212802075&sign=eb141635a2857fd941e44a04f86f622fb01b8625821902f82e23a4b56692cce799e9f6f66ba5607599e255c5952ad7a182f83c2db4fa103bad797d6dd371c022f9c78665a577104a261e4af5381abf&auth_token=11753a6b8669cf6f1139b4891d0568d6
 
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/428/795/202107191524_2202428795_H32_1080.webp" group-title="全部频道",广东卫视
 https://list.syyel.dynv6.net:8989/608831231
@@ -82,7 +82,7 @@ https://list.syyel.dynv6.net:8989/947472496
 https://list.syyel.dynv6.net:8989/790187291
 
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/316/202512310003_1766556161260_H32_1080.webp" group-title="全部频道",河北卫视
-https://list.syyel.dynv6.net:8989/962042070
+https://live.ottiptv.cc/mcp/hebei.m3u8?userid=5212802075&sign=2df893365de0e5230d1ed56fb16c2626a1b2c267d035f1d3f66aa5d4ab1102737bd388b3b6438e8c79deb7d0070a4ba056522d8789c4881d3496ea28a3eb8c615f32b8894386ca76f4b1f6c68a&auth_token=11753a6b8669cf6f1139b4891d0568d6
 
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/198/202509221600_5101043014_H32_1080.webp" group-title="全部频道",辽宁卫视
 https://list.syyel.dynv6.net:8989/630291707
